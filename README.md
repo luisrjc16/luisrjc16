@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi 👋, I'm Luis
+## 💬 About me:
+### I'm a Software Developer 🧑‍💻
+## 💻 Stack tech:
+### Java, Python, Javascript...
+## 📫 Connect with me:
+### LinkedIn, Twitter
 <!--
 **luisrjc16/luisrjc16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
