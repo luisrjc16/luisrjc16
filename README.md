@@ -1,10 +1,21 @@
-### Hi 👋, I'm Luis
-## 💬 About me:
-### I'm a Software Developer 🧑‍💻
-## 💻 Stack tech:
-### Java, Python, Javascript...
-## 📫 Connect with me:
-### LinkedIn, Twitter
+#### Hi❗ 👋, My name is 👾 Luis Rey 👾
+## 💬 About me ...
+I am a software developer 🧑‍💻 with experience in the design, development and maintenance of applications. I have knowledge in machine learning, which allows me to integrate predictive models and machine learning algorithms into software solutions 💻.
+## 💻 Stack tech ...
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,angular,aws,docker,git,jenkins,kafka,maven,spring,tensorflow&perline=6&theme=light)](https://skillicons.dev)
+## 🌱 I’m currently learning ...
+|                            |                                   |
+| :------------------------- | :-------------------------------- |
+| 📚 System Design           | 📚 Data Structures & Algorithms  |
+| 📚 Data Science            | 📚 Machine & Deep Learning       |
+| 📚 Cybersecurity           | 📚 Quantum Computing             |
+| 📚 Cloud Computing         | 📚 Maths & Physics               |
+
+## 📫 Connect with me ...
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+<!--[![Contact](https://skillicons.dev/icons?i=linkedin,twitter,gmail&theme=light)](https://skillicons.dev)-->
 <!--
 **luisrjc16/luisrjc16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
